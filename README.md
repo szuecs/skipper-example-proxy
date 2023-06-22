@@ -15,7 +15,7 @@ Build your custom skipper
 ```
 % make
 mkdir -p bin
-go build -ldflags "-X main.version=0beb7bd -X main.commit=0beb7bd" -o bin/skipper .
+go build -ldflags "-X main.version=6665329 -X main.commit=6665329" -o bin/skipper .
 ```
 
 ## Add filter
