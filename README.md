@@ -6,7 +6,7 @@ Fetch newest skipper library.
 
 ```
 % go get github.com/zalando/skipper
-go: downloading github.com/zalando/skipper v0.13.218
+go: downloading github.com/zalando/skipper v0.16.117
 ...
 ```
 
